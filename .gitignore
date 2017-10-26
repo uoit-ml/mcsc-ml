@@ -1,0 +1,10 @@
+.DS_Store
+Untitled*
+*~
+.ipynb_checkpoints
+*.ckpt*
+*.pdf
+*.png
+*.gv
+.#*
+checkpoint

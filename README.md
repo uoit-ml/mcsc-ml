@@ -2,7 +2,7 @@
 
 Fall 2017, Modeling and Computational Science, Machine Learning Course.
 
-Course web is available here [http://elf.science.uoit.ca/~faisal/courses/f17/mcsc-ml/](http://elf.science.uoit.ca/~faisal/courses/f17/mcsc-ml/)
+Course web is available here [http://csgrad.science.uoit.ca/courses/mcsc-ml/](http://csgrad.science.uoit.ca/courses/mcsc-ml/)
 
 ## Contents
 
@@ -64,3 +64,4 @@ Course web is available here [http://elf.science.uoit.ca/~faisal/courses/f17/mcs
 ### RNN
 
 - Characters
+
